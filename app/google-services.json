@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857439499338",
+    "firebase_url": "https://meowapp-e73d6.firebaseio.com",
+    "project_id": "meowapp-e73d6",
+    "storage_bucket": "meowapp-e73d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857439499338:android:b83f951e8e2e077843e2b3",
+        "android_client_info": {
+          "package_name": "com.example.meow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857439499338-drpr2mbgtv5nci4t2gtagsrj45r80ffg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meow",
+            "certificate_hash": "5f970ce68c6f2fb416f94d63894722569b0f9d0d"
+          }
+        },
+        {
+          "client_id": "857439499338-q40c3p4gt46hhjodmjd1pphtd17d3guf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKzhcd-qZ6g-FMEu1Jp_YhXDOvnvYM7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857439499338-q40c3p4gt46hhjodmjd1pphtd17d3guf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
