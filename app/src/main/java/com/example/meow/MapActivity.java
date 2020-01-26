@@ -87,7 +87,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
         mapView = mapFragment.getView();
 
         mFusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(MapActivity.this);
-        Places.initialize(MapActivity.this, "AIzaSyDWnAAMLq_CIb5oLtbT0MntfaTV8YwI2P0");
+        Places.initialize(MapActivity.this, <API_KEY>);
         placesClient = Places.createClient(this);
         final AutocompleteSessionToken token = AutocompleteSessionToken.newInstance();
 
